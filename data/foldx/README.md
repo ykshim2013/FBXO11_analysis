@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains FoldX 5.0 ΔΔG predictions for 45 FBXO11 missense variants across 276 structural contexts.
+This directory contains FoldX 5.1 ΔΔG predictions for 45 FBXO11 missense variants across 276 structural contexts.
 
 ## Dataset Design
 

@@ -18,7 +18,7 @@ This repository contains computational analysis scripts, data, and protocols for
 
 *FBXO11*-related neurodevelopmental disorder is a rare Mendelian condition caused by pathogenic variants in the *FBXO11* gene, which encodes an F-box protein component of the SCF E3 ubiquitin ligase complex. This repository provides a comprehensive computational framework for analyzing the structural stability effects of *FBXO11* missense variants using:
 
-- **FoldX 5.0** - Empirical force field-based stability predictions
+- **FoldX 5.1** - Empirical force field-based stability predictions
 - **Rosetta 2023.49** - Physics-based cartesian_ddg calculations
 - **GROMACS 2024.4** - Molecular dynamics simulations
 - **AlphaFold3** - Structural modeling
@@ -109,7 +109,7 @@ FBXO11_analysis/
 ### Software Dependencies
 
 **Stability Prediction:**
-- FoldX 5.0 (academic license: [FoldX website](https://foldxsuite.crg.eu/))
+- FoldX 5.1 (academic license: [FoldX website](https://foldxsuite.crg.eu/))
 - Rosetta 2023.49 (academic license: [Rosetta Commons](https://www.rosettacommons.org/))
 
 **Molecular Dynamics:**
@@ -275,7 +275,7 @@ If you use this code or data, please cite:
 
 For software used in this analysis:
 
-**FoldX**: Delgado et al. (2019). FoldX 5.0. *Bioinformatics* 35(20):4168-4169.
+**FoldX**: Delgado et al. (2019). FoldX 5.0: working with RNA, small molecules and a new graphical interface. *Bioinformatics* 35(20):4168-4169.
 **Rosetta**: Alford et al. (2017). The Rosetta All-Atom Energy Function. *J Chem Theory Comput* 13(6):3031-3048.
 **GROMACS**: Abraham et al. (2015). GROMACS. *SoftwareX* 1:19-25.
 **AlphaFold3**: Abramson et al. (2024). Accurate structure prediction. *Nature* 630:493-500.

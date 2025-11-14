@@ -81,7 +81,7 @@ Three conformational seeds selected per biological context based on:
 
 ### Software
 
-**Version:** FoldX 5.0
+**Version:** FoldX 5.1
 **Force field:** Empirical energy function (Guerois et al., 2002)
 **Platform:** Linux x86_64
 
