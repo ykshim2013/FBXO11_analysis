@@ -1,8 +1,10 @@
 # Molecular Dynamics Simulation Trajectories
 
+> **⚠️ Data Files Status:** Summary CSV files to be added before publication. Full trajectory files (~55 GB) available via external storage (see download_instructions.md). This README describes the expected data format and structure.
+
 ## Overview
 
-This directory contains GROMACS 2024.4 molecular dynamics simulation data for 5 representative FBXO11 variants analyzed over 300 ns total simulation time.
+This directory will contain GROMACS 2024.4 molecular dynamics simulation summary data for 5 representative FBXO11 variants analyzed over 300 ns total simulation time.
 
 ## Dataset Design
 

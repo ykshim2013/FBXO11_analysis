@@ -1,8 +1,10 @@
 # Rosetta Stability Predictions
 
+> **⚠️ Data Files Status:** CSV data files to be added before publication. This README describes the expected data format and structure.
+
 ## Overview
 
-This directory contains Rosetta cartesian_ddg ΔΔG predictions for 45 FBXO11 missense variants across 270 structural contexts.
+This directory will contain Rosetta cartesian_ddg ΔΔG predictions for 45 FBXO11 missense variants across 270 structural contexts.
 
 ## Dataset Design
 

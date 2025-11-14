@@ -211,12 +211,21 @@ See [`docs/TUTORIAL.md`](docs/TUTORIAL.md) for detailed usage examples.
 
 ## Data Availability
 
-### Included in Repository
+> **⚠️ Note for Repository Maintainer:** Actual data files (CSV format) should be added to the `data/` directories before manuscript publication. Currently, only README files describing data formats are included. See [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) for complete column specifications.
+
+### Data to be Included in Repository
 
 - **FoldX predictions**: Complete ΔΔG values for 276 systems (45 variants × 6 contexts)
+  - `data/foldx/aggregated_results.csv` - All systems with technical replicates
+  - `data/foldx/by_variant_summary.csv` - Per-variant statistics
 - **Rosetta predictions**: Complete ΔΔG values for 270 systems
+  - `data/rosetta/aggregated_results.csv` - All systems with technical replicates
+  - `data/rosetta/by_variant_summary.csv` - Per-variant statistics
 - **MD summary metrics**: RMSD, RMSF, SASA for 15 simulations (5 variants × 3 replicates)
+  - `data/md_trajectories/trajectory_summary.csv` - Summary metrics
+  - `data/md_trajectories/md_analysis_results.csv` - Extended analysis
 - **AlphaFold3 metadata**: Structure quality metrics (pLDDT scores)
+  - `data/alphafold3_structures/structure_metadata.csv` - Quality metrics
 
 ### Large Files (External Storage)
 

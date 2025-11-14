@@ -1,8 +1,10 @@
 # AlphaFold3 Structure Information
 
+> **⚠️ Data Files Status:** Metadata CSV file to be added before publication. This README describes the expected data format and structure.
+
 ## Overview
 
-This directory contains metadata for AlphaFold3 structural models used in FoldX and Rosetta stability predictions.
+This directory will contain metadata for AlphaFold3 structural models used in FoldX and Rosetta stability predictions.
 
 ## Structure Design
 

@@ -1,8 +1,10 @@
 # FoldX Stability Predictions
 
+> **⚠️ Data Files Status:** CSV data files to be added before publication. This README describes the expected data format and structure.
+
 ## Overview
 
-This directory contains FoldX 5.1 ΔΔG predictions for 45 FBXO11 missense variants across 276 structural contexts.
+This directory will contain FoldX 5.1 ΔΔG predictions for 45 FBXO11 missense variants across 276 structural contexts.
 
 ## Dataset Design
 
