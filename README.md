@@ -7,7 +7,7 @@
 
 This repository contains computational analysis scripts, data, and protocols for the manuscript:
 
-> **Structural Destabilization as a Pathogenic Mechanism in *FBXO11*-Related Neurodevelopmental Disorder: A Computational Framework for Variant Interpretation**
+> **A Computational Framework for Evaluating Protein Structural Destabilization in *FBXO11*-Related Neurodevelopmental Disorder**
 >
 > Youngkyu Shim, M.D.
 > Department of Pediatrics, Korea University Ansan Hospital
