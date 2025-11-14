@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Shim
+    given-names: Youngkyu
+    email: ykshim2013@gmail.com
+    affiliation: Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine
+    orcid: https://orcid.org/0000-0000-0000-0000
+title: "FBXO11 Variant Stability Analysis: Computational Framework for Structural Destabilization in FBXO11-Related Neurodevelopmental Disorder"
+version: 1.0.0
+date-released: 2025-01-15
+url: "https://github.com/ykshim2013/FBXO11_analysis"
+repository-code: "https://github.com/ykshim2013/FBXO11_analysis"
+license: MIT
+keywords:
+  - FBXO11
+  - variant analysis
+  - protein stability
+  - FoldX
+  - Rosetta
+  - molecular dynamics
+  - GROMACS
+  - neurodevelopmental disorder
+  - computational biology
+  - AlphaFold3
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Shim
+      given-names: Youngkyu
+      email: ykshim2013@gmail.com
+      affiliation: Department of Pediatrics, Korea University Ansan Hospital, Korea University College of Medicine
+  title: "Structural Destabilization as a Pathogenic Mechanism in FBXO11-Related Neurodevelopmental Disorder: A Computational Framework for Variant Interpretation"
+  journal: "Frontiers in Genetics"
+  year: 2025
+  volume: TBD
+  issue: TBD
+  pages: TBD
+  doi: TBD

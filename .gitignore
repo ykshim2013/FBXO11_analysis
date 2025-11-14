@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# GROMACS temporary files
+\#*\#
+*.log
+*.edr
+*.trr
+*.tpr
+*.gro
+*.xtc
+*.xvg
+*.ndx
+*.top
+*.itp
+mdout.mdp
+*.cpt
+*.part*
+
+# FoldX temporary files
+*.fxout
+individual_list.txt
+rotabase.txt
+Average_*.fxout
+Dif_*.fxout
+PdbList_*.fxout
+Raw_*.fxout
+SD_*.fxout
+
+# Rosetta temporary files
+*.sc
+*.pdb.gz
+*.fasc
+
+# Large data files (use Git LFS or external storage)
+*.tar.gz
+*.zip
+*.xtc
+*.trr
+trajectories/*.xtc
+trajectories/*.trr
+
+# Analysis outputs (generated files)
+analysis_outputs/figures/*.png
+analysis_outputs/figures/*.pdf
+analysis_outputs/tables/*.csv
+analysis_outputs/statistics/*.txt
+
+# Temporary files
+*.tmp
+temp/
+tmp/
